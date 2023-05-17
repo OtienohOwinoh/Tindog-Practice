@@ -178,3 +178,50 @@ h2 {
         
     }
 }
+
+
+/* CALL TO ACTION */
+
+#cta {
+
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 7% 15%;
+    width: 100%;
+    color: white;
+}
+
+
+#cta h3 {
+
+    font-family: "Montserrat";
+    font-size: 3.5rem;
+    font-weight: bold;
+    color: white;
+    line-height: 1.5;
+
+}
+
+
+/* FOOTER */
+
+#footer {
+
+    background: #fff;
+    padding:7% 15% ;
+    text-align: center;
+    
+}
+
+.socials {
+
+    color: black;
+    margin: 20px 10px;
+     
+}
+
+
+.copyright {
+
+    color: #8f8f8f;
+}
